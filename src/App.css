@@ -1,0 +1,19 @@
+.app-container {
+  border: 1px solid blue;
+  padding: 50px;
+}
+
+.grand-parent {
+  border: 1px solid red;
+  padding: 50px;
+}
+
+.parent {
+  border: 1px solid green;
+  padding: 50px;
+}
+
+.child {
+  border: 1px solid black;
+  padding: 50px;
+}
